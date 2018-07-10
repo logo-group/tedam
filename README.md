@@ -29,5 +29,5 @@ TBA
 # Project Guidelines
 Read the related wiki pages to learn about:
 - [Project Governance Model](https://github.com/logobs/tedam/wiki/Project-Governance-Model)
-- [How to Become a Contributor](https://github.com/logobs/tedam/wiki/wiki/How-to-Become-a-Contributor)
+- [How to Become a Contributor](https://github.com/logobs/tedam/wiki/How-to-Become-a-Contributor)
 
