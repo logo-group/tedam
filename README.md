@@ -26,6 +26,12 @@ TBA
 ## User Guides
 TBA
 - [Installation](https://github.com/logobs/tedam/wiki/Installation)
+- [Configuration](https://github.com/logobs/tedam/wiki/Configuration)
+- [CORS](https://github.com/logobs/tedam/wiki/CORS)
+- [OAuth2](https://github.com/logobs/tedam/wiki/OAuth2)
+- [Deep Linking](https://github.com/logobs/tedam/wiki/Deep-Linking)
+- [Limitations](https://github.com/logobs/tedam/wiki/Limitations)
+- [Version Detection](https://github.com/logobs/tedam/wiki/Version-detection)
 
 # Project Guidelines
 Read the related wiki pages to learn about:
