@@ -25,6 +25,7 @@ TBA
 
 ## User Guides
 TBA
+- [Prerequisites](https://github.com/logobs/tedam/wiki/Prerequisites)
 - [Installation](https://github.com/logobs/tedam/wiki/Installation)
 
 # Project Guidelines
