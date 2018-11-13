@@ -8,7 +8,7 @@ Logo TEDAM is an open source test management and automation software. TEDAM can 
 - Websockets
 - Chrome add-on
 - Beanshell scripts (http://www.beanshell.org/)
-- Selenium
+- Selenium (https://www.seleniumhq.org/)
 
 ## What is so special about TEDAM?
 TEDAM brings a new perspective to test automation:
