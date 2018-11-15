@@ -28,7 +28,6 @@ TEDAM is used by Logo Business Solutions for test automation of its own software
 TBA
 
 ## User Guides
-TBA
 - [Prerequisites](https://github.com/logobs/tedam/wiki/Prerequisites)
 - [Installation](https://github.com/logobs/tedam/wiki/Installation)
 
