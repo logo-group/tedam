@@ -10,7 +10,7 @@ The following technologies are used in the project:
 - Hibernate
 - Vaadin
 - Websockets
-- Chrome add-on
+- Chrome Extension
 - Beanshell scripts (http://www.beanshell.org/)
 - Selenium (https://www.seleniumhq.org/)
 
@@ -23,9 +23,6 @@ TEDAM brings a new perspective to test automation:
 
 ## Who can use TEDAM?
 TEDAM is used by Logo Business Solutions for test automation of its own software products. Originally it was created for test automation of [J-Platform](http://www.logo.com.tr/en/solutions/erp-solutions/j-platform) which is a full-fledged ERP solution using Java Web Start technology. Later it evolved to support HTML based web applications too. TEDAM currently supports only automated test execution. 
-
-## Architecture
-TBA
 
 ## User Guides
 - [Installation](https://github.com/logobs/tedam/wiki/Installation)
