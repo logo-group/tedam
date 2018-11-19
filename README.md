@@ -29,7 +29,7 @@ TBA
 
 ## User Guides
 - [Installation](https://github.com/logobs/tedam/wiki/Installation)
-- [How to use TedamFace?](https://github.com/logobs/tedam-face)
+- [How to use Tedam Face?](https://github.com/logobs/tedam-face)
 
 # Project Guidelines
 Read the related wiki pages to learn about:
