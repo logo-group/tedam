@@ -2,6 +2,8 @@
 Logo TEDAM is an open source test management and automation software. TEDAM can be used to create test cases, test sets and store test data. Test sets can be assigned to clients running TEDAM Agent software. Test execution results are stored on the TEDAM Server. 
 
 [Demo Video](https://youtu.be/eczwqyTae0A)
+[![Watch the demo](https://img.youtube.com/vi/eczwqyTae0A/maxresdefault.jpg)](https://youtu.be/eczwqyTae0A)
+
 
 ![tedamschemaeng](https://user-images.githubusercontent.com/44693634/48532853-1db52180-e8b3-11e8-8f12-45e7e858379c.png)
 
