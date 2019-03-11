@@ -3,8 +3,10 @@ Logo TEDAM is an open source test management and automation software. TEDAM can 
 
 ![tedamschemaeng](https://user-images.githubusercontent.com/44693634/48532853-1db52180-e8b3-11e8-8f12-45e7e858379c.png)
 
+## Demo Video
 [![Watch the demo](https://img.youtube.com/vi/eczwqyTae0A/maxresdefault.jpg)](https://youtu.be/eczwqyTae0A)
 
+## Technology
 The following technologies are used in the project:
 
 - Java 
