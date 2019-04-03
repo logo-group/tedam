@@ -13,7 +13,6 @@ On a Linux box with docker and docker-compose execute the following:<br>
  mkdir tedamdata <br>
  docker-compose up -d <br>
 
-<br>
 tedamdata folder will hold the mysql data files.<br>
 
 Browse http://yourserver.name.here:8888/TEDAMFaceV2<br>
