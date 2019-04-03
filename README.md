@@ -20,7 +20,9 @@ Browse http://yourserver.name.here:8888/TEDAMFaceV2<br>
 
 Use the following credentials:<br>
 User Name: admin<br>
-Password : 2018tedaM<br>
+Password: 2018tedaM<br>
+
+![image](https://user-images.githubusercontent.com/11722394/55487415-b8ca5000-5636-11e9-99c3-5d394d2a490f.png)
 
 ## Technology
 The following technologies are used in the project:
