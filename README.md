@@ -7,20 +7,20 @@ Logo TEDAM is an open source test management and automation software. TEDAM can 
 [![Watch the demo](https://img.youtube.com/vi/eczwqyTae0A/maxresdefault.jpg)](https://youtu.be/eczwqyTae0A)
 
 ## Try It
-On a Linux box with docker and docker-compose execute the following:
-<code>
- wget https://github.com/logobs/tedam-docker/blob/master/docker-compose.yml
- mkdir tedamdata 
- docker-compose up -d
-</code>
+On a Linux box with docker and docker-compose execute the following:<br>
 
-tedamdata folder will hold the mysql data files.
+ wget https://github.com/logobs/tedam-docker/blob/master/docker-compose.yml<br>
+ mkdir tedamdata <br>
+ docker-compose up -d <br>
 
-Browse http://yourserver.name.here:8888/TEDAMFaceV2
+<br>
+tedamdata folder will hold the mysql data files.<br>
 
-Use the following credentials:
-User Name: admin
-Password : 2018tedaM
+Browse http://yourserver.name.here:8888/TEDAMFaceV2<br>
+
+Use the following credentials:<br>
+User Name: admin<br>
+Password : 2018tedaM<br>
 
 ## Technology
 The following technologies are used in the project:
