@@ -1,5 +1,5 @@
-# Logo TEDAM
-Logo TEDAM is an open source test management and automation software. Logo TEDAM can be used to create test cases, test sets and store test data. Test sets can be assigned to clients running Logo TEDAM Agent software. Test execution results are stored on the Logo TEDAM Server. 
+# Logo Tedam
+Logo Tedam is an open source test management and automation software. Logo Tedam can be used to create test cases, test sets and store test data. Test sets can be assigned to clients running Logo Tedam Agent software. Test execution results are stored on the Logo Tedam Server. 
 
 ![tedamschemaeng](https://user-images.githubusercontent.com/44693634/48532853-1db52180-e8b3-11e8-8f12-45e7e858379c.png)
 
@@ -35,15 +35,15 @@ The following technologies are used in the project:
 - Beanshell scripts (http://www.beanshell.org/)
 - Selenium (https://www.seleniumhq.org/)
 
-## What is so special about Logo TEDAM?
-Logo TEDAM brings a new perspective to test automation:
+## What is so special about Logo Tedam?
+Logo Tedam brings a new perspective to test automation:
 - It organizes all UI interactions under action items and couples them with test data
 - Its flexible architecture can be extended to support new action items
 - It can support many scripting languages and frameworks
 - It uses test steps and data as metadata/pseudo code to generate actual test script at runtime
 
-## Who can use Logo TEDAM?
-Logo TEDAM is used by Logo Business Solutions for test automation of its own software products. Originally it was created for test automation of [J-Platform](http://en.logo.com.tr/en/solutions/erp-solutions/j-platform) which is a full-fledged ERP solution using Java Web Start technology. Later it evolved to support HTML based web applications too. Logo TEDAM currently supports only automated test execution. 
+## Who can use Logo Tedam?
+Logo Tedam is used by Logo Business Solutions for test automation of its own software products. Originally it was created for test automation of [J-Platform](http://en.logo.com.tr/en/solutions/erp-solutions/j-platform) which is a full-fledged ERP solution using Java Web Start technology. Later it evolved to support HTML based web applications too. Logo Tedam currently supports only automated test execution. 
 
 ## User Guides
 - [Installation](https://github.com/logobs/tedam/wiki/Installation)
